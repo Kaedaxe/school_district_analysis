@@ -13,7 +13,7 @@ The change isn't that significant, but the passing percent in reading, math, and
 ![image](https://user-images.githubusercontent.com/77989740/142297198-317e93be-e40a-46c2-9608-96b0ef6d8535.png)
 
 ### How is the school summary affected?
-We can see on the before and after summaries below, the % 
+We can see on the before and after summaries below, the % of students passing math, reading, and both decreases marginally. 
 
 ![image](https://user-images.githubusercontent.com/77989740/142297443-4e013fa1-8151-40ed-8b9a-6c822ccf8339.png)
 ![image](https://user-images.githubusercontent.com/77989740/142297496-c261b46f-a3f2-48a6-b9c1-555bb3f3ed90.png)
